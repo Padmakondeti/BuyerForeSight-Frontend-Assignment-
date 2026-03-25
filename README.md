@@ -54,10 +54,15 @@ The goal is to Build a **User Directory Dashboard** using the API: https://jsonp
 ## ✅ Features Covered
 
   ✔ Fetch users from API
+  
   ✔ Display in table (Name, Email, Phone, Company)
+  
   ✔ Search (name + email)
+  
   ✔ Sorting (Name & Company, ASC/DESC)
+  
   ✔ Click row → Navigate to detail page
+  
   ✔ Full user detail view
 
 ---
