@@ -1,10 +1,13 @@
 # BuyerForeSight Frontend Assignment
 
+
 The goal is to Build a **User Directory Dashboard** using the API: https://jsonplaceholder.typicode.com/users.
 
 ---
 
+
 ## 🚀 User Directory Dashboard (React)
+
 
 ### 🧠 Key Concepts Used
 
@@ -19,6 +22,7 @@ The goal is to Build a **User Directory Dashboard** using the API: https://jsonp
 
 ## 🧱 Project Setup :
 
+
 ``` 
   npx create-react-app user-directory
   cd user-directory
@@ -29,7 +33,9 @@ The goal is to Build a **User Directory Dashboard** using the API: https://jsonp
 
 ---
 
+
 ## 📁 Folder Structure
+
 
 ```
     src/
@@ -51,7 +57,9 @@ The goal is to Build a **User Directory Dashboard** using the API: https://jsonp
 
 ---
 
+
 ## ✅ Features Covered
+
 
   ✔ Fetch users from API
   
@@ -67,7 +75,9 @@ The goal is to Build a **User Directory Dashboard** using the API: https://jsonp
 
 ---
 
+
 ## 💡Bonus Ideas (to stand out)
+
 
   - Add loading spinner
   - Add pagination
