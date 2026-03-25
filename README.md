@@ -69,10 +69,10 @@ The goal is to Build a **User Directory Dashboard** using the API: https://jsonp
 
 ## 💡Bonus Ideas (to stand out)
 
-  - [Add loading spinner]
-  - [Add pagination]
-  - [Add debounce for search]
-  - [Add UI library (Material UI)]
-  - [Add error handling]
+  - Add loading spinner
+  - Add pagination
+  - Add debounce for search
+  - Add UI library (Material UI)
+  - Add error handling
 
 ---
